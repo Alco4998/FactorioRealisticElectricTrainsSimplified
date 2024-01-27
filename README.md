@@ -1,4 +1,4 @@
-Realistic Electric Trains
+Realistic Electric Trains (Simplified)
 =========================
 
 Realistic Electric Trains - or RET for short - adds locomotives to Factorio that
