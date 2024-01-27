@@ -12,8 +12,7 @@ without integrated signals are implemented. I'm planning on adding higher-tier
 locomotives and better 3D models in the near future.
 
 
-[portal]: https://mods.factorio.com/mod/Realistic_Electric_Trains
-[forum]: https://forums.factorio.com/viewtopic.php?f=190&t=64946
+[portal]
 
 
 Tutorial
@@ -29,8 +28,6 @@ If you find a bug, please report it via the GitHub issue tracker or in the mod
 portal. Please provide useful bug reports. If you want to know what that means,
 [here is an article for you][bug-reports].
 
-
-[bug-reports]: https://www.chiark.greenend.org.uk/~sgtatham/bugs.html "How to Report Bugs Effectively"
 
 
 Contributing
